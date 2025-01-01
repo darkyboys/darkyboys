@@ -5,7 +5,7 @@ I also have learnt a lot of programming languages such as : **C/C++**, **JavaScr
 
 **Now i will seperate information about me in different sections through headings**
 
-## Hobby & Intrests
+## 🎟️Hobby & Intrests
 My hobby is **low** to **mid-level** programming and i am really intrested to find an oppourtunity for **Collaboration** with other developers , Specifically to the **Open-Source** Community & **Linux Community**.
 
 ## 📃Goals
