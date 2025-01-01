@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is darkyboi, A Computer Expert and a person who loves **low-level** and **mid-level** programming and even developed a **Custom Programming Language** just for learning by self and fun, I have also created **Virtual File-System** and a lot of the exeicing projects which now i want to contribute to the **Open-Source** community for free and as a source of learning for others.
 <!--
 **darkyboys/darkyboys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
